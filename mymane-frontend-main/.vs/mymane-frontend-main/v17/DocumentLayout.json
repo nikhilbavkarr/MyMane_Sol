@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\Home\\Mostview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home\\Mostview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\Home\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Home\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\About\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\About\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mostview.jsx",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\Home\\Mostview.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Home\\Mostview.jsx",
+              "ToolTip": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\Home\\Mostview.jsx",
+              "RelativeToolTip": "src\\components\\Home\\Mostview.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-26T19:25:08.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\Home\\Home.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Home\\Home.jsx",
+              "ToolTip": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\Home\\Home.jsx",
+              "RelativeToolTip": "src\\components\\Home\\Home.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-26T19:24:58.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\About\\About.jsx",
+              "RelativeDocumentMoniker": "src\\components\\About\\About.jsx",
+              "ToolTip": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\src\\components\\About\\About.jsx",
+              "RelativeToolTip": "src\\components\\About\\About.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-26T19:21:51.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-26T19:21:24.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "C:\\Users\\Chaitra\\OneDrive\\Documents\\Desktop\\mymane-frontend-main\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-26T19:21:14.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
